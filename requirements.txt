@@ -1,2 +1,2 @@
 jupyter-book
-sphinx_book_theme
+sphinx-book-theme
