@@ -5,6 +5,8 @@ parts:
 - caption: Machine Learning
   chapters:
   - file: notes/forests
+  - file: notes/mdown
+  
  
 
   
