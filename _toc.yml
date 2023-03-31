@@ -1,0 +1,10 @@
+format: jb-book
+root: index
+
+parts:
+- caption: Machine Learning
+  chapters:
+  - file: notes/forests
+ 
+
+  
