@@ -15,6 +15,4 @@ The `_config.yml` lets you change websitetitle, logo, and theme.  Details [here]
       - `settings/Pages` set source to `gh-pages` branch, folder to `/root`.  and 'deploy from branch'.
 
 
-
-** Aalternatively at step 2 type `jupyter-book create mybook` to create an entirely new book, but you'll need to `.github/workflows/book.html` to get the github actions part to work.
-
+** Alternatively at step 2 type `jupyter-book create mybook` to create an entirely new book, but you'll need to `.github/workflows/book.html` to get the github actions part to work.
