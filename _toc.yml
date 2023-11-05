@@ -4,6 +4,7 @@ root: index
 parts:
 - caption: Machine Learning
   chapters:
+  - file: notes/logistic_regression
   - file: notes/forests
   - file: notes/mdown
   

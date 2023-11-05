@@ -45,6 +45,6 @@ html:
 
 only_build_toc_files: true
 
-#sphinx:
-#  config:
-#    myst_heading_anchors: 2
+sphinx:
+  config:
+    html_theme: pydata_sphinx_theme
